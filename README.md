@@ -1,5 +1,4 @@
-# Social-Distancing-alarm-using-Arduinio
-  Alert for social distancing using arduino 
+In this project I have connected ultrasonic sensor to buzzer and arduino to take care of social distancing.
 # Required Components:
   1.Arduino Uno
   2.HC-SR04 Ultrasonic Sensor
